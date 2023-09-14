@@ -1,0 +1,27 @@
+{
+  "name": "webclock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prnmshr/webclock.git"
+  },
+  "keywords": [
+    "dicoding"
+  ],
+  "author": "Purnama Ashari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prnmshr/webclock/issues"
+  },
+  "homepage": "https://github.com/prnmshr/webclock#readme",
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "moment": "^2.29.4"
+  }
+}
